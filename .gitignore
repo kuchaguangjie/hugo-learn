@@ -1,0 +1,15 @@
+*.out
+*.[oa]
+*.swp
+*~
+
+# mac
+.DS_Store
+
+# editor
+.idea
+.vscode
+
+# hugo
+*.lock
+
